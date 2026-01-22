@@ -23,7 +23,7 @@
 
         nativeBuildInputs = [
           pkgs.autoPatchelfHook
-          pkgs.wrapGAppsHook
+          pkgs.wrapGAppsHook3
           pkgs.lndir
           pkgs.jq
           pkgs.gtk3
